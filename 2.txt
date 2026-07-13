@@ -1,0 +1,4 @@
+class Customer(models.Model):
+       CusId = models.IntegerField()
+       CusName = models.CharField(max_length)
+       CusPrice = models.IntegerField()
