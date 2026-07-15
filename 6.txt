@@ -1,4 +1,9 @@
+
 story 2
 
 class Login
 completed login
+
+story 1
+ class Employee(models.Model):
+  
